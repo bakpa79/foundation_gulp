@@ -7,7 +7,8 @@ Dependancies
 * [GulpJS]
 * [Zurb Foundation]
 
-* gulp installation
+Gulp installation and setup
+
 ```
 npm install gulp http path gulp-minify-js gulp-minify-css gulp-util gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename connect gulp-livereload --save-dev
 ```
