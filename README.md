@@ -3,12 +3,14 @@ foundation_gulp
 
 
 Dependancies
-[Node]
-[GulpJS]
-[Zurb Foundation]
+* [Node]
+* [GulpJS]
+* [Zurb Foundation]
 
 * gulp installation
+```
 npm install gulp http path gulp-minify-js gulp-minify-css gulp-util gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename connect gulp-livereload --save-dev
+```
 
 [Node]:http://nodejs.org/
 [GulpJS]:http://gulpjs.com/
